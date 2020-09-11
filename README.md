@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+I'm Corentin, French freelancer web developer!
+
+My favorite technologies are PHP (Symfony / Laravel), JavaScript (learning React 🚀) and TailwindCSS 🔥
+
+![Twitter Follow](https://img.shields.io/twitter/follow/CorentinTS?style=social)
+
 <!--
 **Corentints/CorentinTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
